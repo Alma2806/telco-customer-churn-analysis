@@ -1,39 +1,23 @@
-# 📊 Telco Customer Churn Analysis
+# 📊 Telco Customer Churn Analysis with SQL
 
-**Author:** Alma Mujagic  
-**Role:** Aspiring Data Analyst / Data Engineer  
-**Technologies:** SQL, Python (Pandas, Seaborn), Excel, Power BI (optional)
+This project analyzes a telecommunications company's customer churn data using SQL and MySQL. The dataset includes demographic, service, and financial information for each customer.
 
-## 🧠 Project Overview
+## 📁 Files
 
-The goal of this project is to analyze the behavior of telecom customers and identify key factors that contribute to customer churn. It uses a publicly available dataset containing information about customer demographics, subscribed services, and billing data.
+- `basic-exploration.sql`: First exploration and unique value discovery
+- `demographic-analysis.sql`: Analysis of gender, seniority, dependents, and partner status
+- `churn-breakdown.sql`: How churn varies by contract
+- `revenue-analysis.sql`: Customer spending patterns
+- `service-usage-and-churn.sql`: Impact of services on churn
 
-The project is divided into three parts:
-- **SQL Analysis:** Filtering and grouping data
-- **Python Analysis:** Advanced data cleaning and visualization
-- **Dashboard/Reporting:** Power BI or Excel summary of key insights
+## 🧰 Tools
 
-## 📦 Dataset
+- MySQL
+- DBeaver
+- GitHub
 
-Dataset: [Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)  
-Format: CSV  
-Records: 7,043 customers  
-Main columns: `CustomerID`, `Gender`, `SeniorCitizen`, `Tenure`, `MonthlyCharges`, `TotalCharges`, `Churn`, etc.
+## 📬 Contact
 
-## ⚙️ Tools and Technologies
-
-- **SQL (MySQL)** – for querying and filtering data
-- **Python (pandas, matplotlib, seaborn)** – for advanced data processing and visualization
-- **Excel / Power BI** – for dashboard creation and final reporting
-- **Jupyter Notebook** – to document analysis steps in Python
-- **GitHub** – for version control and documentation
-
-## 🔍 Key Business Questions
-
-- Which customer segments are most likely to churn?
-- Which services are most associated with churn?
-- What is the relationship between pricing and customer retention?
-- Are there any seasonal patterns in churn behavior?
-
-## 📁 Folder Structure
-
+**Alma Mujagic**  
+📧 alma.mujagic88@gmail.com  
+🌍 Sarajevo, Bosnia and Herzegovina
